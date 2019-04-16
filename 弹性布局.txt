@@ -49,6 +49,8 @@
                                         flex-grow    等比放大 默认为0  不等比放大
 	 				flex-shrink  等比缩小 默认为 1  当空间不足时，所有项目都将等比缩设置0就不缩小 按照width展示
 	         			flex-basis   定义了在分配多余的空间之前，默认值为 auto，可以设置成width的值。浏览器会根据这个属性来计算主轴是否有多余的空间        	
+					
+
 				align-self 子元素侧轴对齐
 				align-self:flex-start (默认) 元素在开始位置 富裕空间占据另一侧
 				align-self:flex-end 富裕空间在开始位置 元素占据另一侧
